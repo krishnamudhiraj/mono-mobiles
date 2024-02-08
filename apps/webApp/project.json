@@ -1,9 +1,8 @@
 {
-  "name": "mobile-e2e",
+  "name": "webApp",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/mobile-e2e/src",
+  "sourceRoot": "apps/webApp/src",
   "projectType": "application",
   "targets": {},
-  "tags": [],
-  "implicitDependencies": ["mobile"]
+  "tags": []
 }
